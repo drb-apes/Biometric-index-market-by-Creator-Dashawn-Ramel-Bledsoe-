@@ -1,6 +1,6 @@
 # PROPRIETARY COMMERCIAL LICENSE — ALL RIGHTS RESERVED
 
-Copyright (c) 2026 National Ice Ball League Sport, Inc. (dba: BIM-APES Software / NIBLS, Inc.)  
+Copyright (c) 2026 National Ice Ball League Sport, Inc. (dba: BIM-APES Software / NIBLS, Inc.)
 Sole Creator & Intellectual Property Owner: Dashawn Ramel Bledsoe
 
 ALL RIGHTS RESERVED.
